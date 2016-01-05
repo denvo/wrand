@@ -1,0 +1,2 @@
+# wrand
+Weighted Random library
